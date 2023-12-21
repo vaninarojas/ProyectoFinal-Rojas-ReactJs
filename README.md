@@ -1,14 +1,14 @@
 # Curso de React Js en CoderHouse
 
-# nombre del proyecto
+# Nombre del proyecto
 
- Vr Joyas
+ - Vr Joyas
 
 # Descripción del proyecto
 
- Vr Joyas es un proyecto final para el curso de React Js en donde realizamos un e-commerce de joyas con diferentes variedades y estilos. 
+ - Vr Joyas es un proyecto final para el curso de React Js en donde realizamos un e-commerce de joyas con diferentes variedades y estilos. 
 
-# instalaciones
+# Instalaciones
 
 - git clone "https://github.com/vaninarojas/ProyectoFinal-Rojas-ReactJs.git"
 - npm install
