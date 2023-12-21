@@ -2,7 +2,7 @@
 
 # Nombre del proyecto
 
- - Vr Joyas
+ - VR JOYAS
 
 # Descripción del proyecto
 
