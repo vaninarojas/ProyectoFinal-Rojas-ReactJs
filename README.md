@@ -10,7 +10,7 @@
 
 # instalaciones
 
-- git clone "url"
+- git clone "https://github.com/vaninarojas/ProyectoFinal-Rojas-ReactJs.git"
 - npm install
 - npm run dev
 
