@@ -19,13 +19,13 @@
 - React Js
 - Node
 - Vite
--React Router Dom
+- React Router Dom
 - React icons
 - Sweet Alert
 - Bootstrap
 
 # Datos de contacto
 
--Email: vanina_93@hotmail.com
--Instagram: /vaninamarieel
--LinkedIn: LinkedIn.com/in/vanina-mariel-rojas-a2564b271
+- Email: vanina_93@hotmail.com
+- Instagram: /vaninamarieel
+- LinkedIn: LinkedIn.com/in/vanina-mariel-rojas-a2564b271
